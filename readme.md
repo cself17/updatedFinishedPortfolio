@@ -1,0 +1,1 @@
+The purpose of this application is to create an updated portfolio to show potential employers my skills.
